@@ -1,4 +1,4 @@
-##Mecachis en los mengues
+Mecachis en los mengues
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
