@@ -6,17 +6,18 @@
 
 
 <!---- Portada ----> 
-<img align="center" src="WalkingGirl_front01.png" width="300" height=auto alt="Logotipo"/>
+<img width="1300" height="648" alt="fondo parque 1" src="https://github.com/user-attachments/assets/07bc9c93-d70e-4c6a-be04-630aeaa69e95" />
 
 
 
 
 
-### Proyecto realizado por:
 
-### Enlace a Itch.io: ____________
+### Proyecto realizado por: Irene García Robles
 
-#### Facultad de Bellas Artes. Universidad de Granada, 202X
+### Enlace a Itch.io: no quiero
+
+#### Facultad de Bellas Artes. Universidad de Granada, 2026
 
 
 
