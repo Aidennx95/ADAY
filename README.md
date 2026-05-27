@@ -9,7 +9,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : ADAY
 
-**Web:**   (url github.io)
+**Web:**   Aidennx95.github.io
 
 **Autor:**  Irene García Robles
 
