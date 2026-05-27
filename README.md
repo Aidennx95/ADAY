@@ -33,10 +33,10 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Medios** (donde se tiene presencia relacionada):
 
-- Github:
-- Twitter
-- Instagram
-
+- Github: Aidennx95
+- Tiktok: Aidennx95
+- Instagram: Aidennx95
+- Itchio: https://aidennx95.itch.io/
 
 
 <img width="1152" height="648" alt="tegan pringao reducido" src="https://github.com/user-attachments/assets/9ee2fc1f-7323-4469-a71d-4168bd789a15" />
@@ -49,15 +49,11 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 <img width="5906" height="8268" alt="storyboard" src="https://github.com/user-attachments/assets/dca908da-569c-49e7-8350-f3c0eda4e262" />
 
-En el proyecto, un chico se tropieza con un desconocido al que se le caen las llaves. Dispuesto a devolverlas se ve involucrado en una extraña situación
+En el proyecto, un chico se tropieza con un desconocido al que se le caen las llaves. Dispuesto a devolverlas se ve involucrado en una extraña situación.
 
 
 
-### 2.2. Esquema de navegación 
 
-
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
 
 
 
@@ -67,83 +63,70 @@ En el proyecto, un chico se tropieza con un desconocido al que se le caen las ll
 
 # 3. Metodología
 
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
-
-
-
-## Etapa 1: Ideación de proyecto
-
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
-
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
-
-
+A raíz de mis personajes propios quise realizar un simulacro de encuentro entre ellos, no de manera canónica pero sí humorística. Ambos personajes tienen un transfondo y desarrollo pero no había profundizado en cómo se conocieron, así que inventé esta situación.
+En un principio, este trabajo iba a tratar un desenlace bastante tétrico, pero debido a que los elementos empleados han sido pintados a mano con mi estilo personal, se decició cambiar la estética de la temática a algo más divertido puesto que no concordaba la narrativa con los gráficos. 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este  proyecto es interesante porque considero que toma una perspectiva un tanto surrealista e impredecible a la hora del desarrollo, sin pararse a pensar en cuestiones lógicas ni demasiado serias.
 
 
 
 **Publico / audiencia**
 
 - Orientado a 
-
+Adolescentes y jóvenes
 
 
 
 
 ## Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
-
 - Juego. 
 - Video 
-- Instrucciones y ayuda al usuario 
 - Menús y elementos de navegación (botones)
-- etc.
+- Elección de música
+- Toma de decisiones
 
 
 
 ## Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+A mejorar destacaría cuestiones como botonesde asistencia del ususario, como añadir botones de pausa, etc., y el ajuste estético de ciertos botones
 
 
 
 # 4. Conclusiones 
-
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
-
+Me gustaría mejorar de cara al futuro de este proyecto el desarrollo de la trama de manera más amplia, añadiendo más personajes y escenarios así como interacciones del jugador. 
+Independientemente de estos factores estoy bastante satisfecha con el resultado, pues en un principio no tenía una idea clara para desarrollarlo.
 
 
 
 
 
-# 5 Referencias 
 
-**Artículos y blogs** 
-
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía: 
+* Musica:  Banco de sonidos de YouTube
+* Imágenes:  ClipStudioPaint
+* Tipografía: Google Fonts
 
 **Herramientas utilizadas**
 
-- Godot Engine 4.x
-- 
+- Godot Engine 4.6.1
+- Clip Studio Paint
+- Conversor de mp4 a ogv
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
+  
+  <img width="403" height="141" alt="598988769-42bb1ce6-0f7b-4edf-9589-f81132cfc496" src="https://github.com/user-attachments/assets/475f1bd6-cd45-45a7-8c4a-7066cd369f11" />
+
+
+
 https://creativecommons.org/licenses/?lang=es
 
 * logos en https://creativecommons.org/mission/downloads/
   
   <img src="https://licensebuttons.net/l/by-nc-sa/3.0/nl/88x31.png" style="width: 80px"></small>
 
-Mayo 202X
+Mayo 2026
