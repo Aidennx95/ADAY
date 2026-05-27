@@ -1,4 +1,3 @@
-Mecachis en los mengues
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
@@ -12,7 +11,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Web:**   (url github.io)
 
-**Autor:**  (Nombre apellidos) 
+**Autor:**  Irene García Robles
 
  [Profile Card](cmi-card.html)  [Alternate Profile Card](cmi-card2.html)
 
