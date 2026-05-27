@@ -13,6 +13,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Autor:**  Irene García Robles
 
+**Enlace itchio**: https://aidennx95.itch.io/aday
 
 **Resumen** : Este juego trata sobre cómo dos jóvenes se conocen en circustancias un tanto peculiares.
 
