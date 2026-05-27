@@ -9,29 +9,27 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : ADAY
 
-**Web:**   Aidennx95.github.io
+**Web:**   [Aidennx95.github.io](https://github.com/Aidennx95)
 
 **Autor:**  Irene García Robles
 
- [Profile Card](cmi-card.html)  [Alternate Profile Card](cmi-card2.html)
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Este juego trata sobre cómo dos jóvenes se conocen en circustancias un tanto peculiares.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Idea de proyecto de juego
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Portada** : <img width="1152" height="648" alt="portada reducida" src="https://github.com/user-attachments/assets/19da6dd6-11fe-429c-99bb-2585939d41ea" />
 
-(insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 1152x648 px
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**  MS Edge
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 75 MB
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 27/05/2026
 
 **Medios** (donde se tiene presencia relacionada):
 
@@ -40,15 +38,18 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 - Instagram
 
 
-![girl](WalkingGirl_front01.png)
+
+<img width="1152" height="648" alt="tegan pringao reducido" src="https://github.com/user-attachments/assets/9ee2fc1f-7323-4469-a71d-4168bd789a15" />
+
 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
 
 
+<img width="5906" height="8268" alt="storyboard" src="https://github.com/user-attachments/assets/dca908da-569c-49e7-8350-f3c0eda4e262" />
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+En el proyecto, un chico se tropieza con un desconocido al que se le caen las llaves. Dispuesto a devolverlas se ve involucrado en una extraña situación
 
 
 
