@@ -71,6 +71,9 @@ En un principio, este trabajo iba a tratar un desenlace bastante tétrico, pero 
 
 Este  proyecto es interesante porque considero que toma una perspectiva un tanto surrealista e impredecible a la hora del desarrollo, sin pararse a pensar en cuestiones lógicas ni demasiado serias.
 
+**Inspiración**
+<img width="512" height="512" alt="512x512bb" src="https://github.com/user-attachments/assets/5d8a21cd-9cf4-429d-ad6d-4a9b3a74610f" />
+<img width="810" height="1080" alt="co2hre" src="https://github.com/user-attachments/assets/3af20cf5-fcf5-4aaf-8811-8e87db4c8b41" />
 
 
 **Publico / audiencia**
