@@ -15,7 +15,7 @@
 
 ### Proyecto realizado por: Irene García Robles
 
-### Enlace a Itch.io: no quiero
+### Enlace a Itch.io: https://aidennx95.itch.io/aday
 
 #### Facultad de Bellas Artes. Universidad de Granada, 2026
 
